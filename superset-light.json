@@ -20,7 +20,7 @@
         "background": "#fefefeff",
         "foreground": "#0a0a0aff",
         "text": "#0a0a0aff",
-        "text.muted": "#737373ff",
+        "text.muted": "#585858ff",
         "text.placeholder": "#a0a0a0ff",
         "text.disabled": "#a0a0a0ff",
         "text.accent": "#d04200ff",
@@ -96,8 +96,8 @@
         "element.confirm.foreground": "#fefefeff",
         "element.danger.background": "#e7000aff",
         "element.danger.foreground": "#fefefeff",
-        "icon": "#737373ff",
-        "icon.muted": "#a0a0a0ff",
+        "icon": "#585858ff",
+        "icon.muted": "#8a8a8aff",
         "icon.disabled": "#a0a0a0ff",
         "icon.placeholder": "#a0a0a0ff",
         "icon.accent": "#d04200ff",
@@ -399,7 +399,7 @@
             "font_weight": null
           },
           "title": {
-            "color": "#0a0a0aff",
+            "color": "#636363ff",
             "font_style": null,
             "font_weight": 600
           },
