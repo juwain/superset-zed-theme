@@ -1,6 +1,6 @@
 # Superset Theme for Zed
 
-A warm, carefully crafted color theme for the [Zed](https://zed.dev) editor. Includes dark and light variants.
+A warm, carefully crafted color theme for the [Zed](https://zed.dev) editor, ported from [superset.sh](https://superset.sh). Includes dark and light variants.
 
 ![Dark](https://img.shields.io/badge/theme-dark-1a1716?style=flat-square&labelColor=151110&color=e07850)
 ![Light](https://img.shields.io/badge/theme-light-f9f9f9?style=flat-square&labelColor=fefefe&color=f44900)
