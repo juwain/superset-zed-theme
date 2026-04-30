@@ -5,6 +5,12 @@ A warm, carefully crafted color theme for the [Zed](https://zed.dev) editor. Inc
 ![Dark](https://img.shields.io/badge/theme-dark-1a1716?style=flat-square&labelColor=151110&color=e07850)
 ![Light](https://img.shields.io/badge/theme-light-f9f9f9?style=flat-square&labelColor=fefefe&color=f44900)
 
+## Preview
+
+![Dark variant](img/dark.png)
+
+![Light variant](img/light.png)
+
 ## Installation
 
 Copy the theme files to your Zed themes directory:
